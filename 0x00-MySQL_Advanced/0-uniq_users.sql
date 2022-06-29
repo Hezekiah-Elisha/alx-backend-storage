@@ -1,0 +1,1 @@
+--create an SQL script that creates a table called users
